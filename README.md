@@ -1,56 +1,56 @@
  <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:090909,50:450909,100:DC2626&height=180&section=header&text=WICKEDCEO&fontSize=55&fontColor=ffffff&fontAlignY=45&animation=fadeIn&stroke=DC2626&strokeWidth=1" width="100%" />
 
-WCKD
+SOFTWARE DEVELOPER · INDEPENDENT BUILDER
 
-SOFTWARE DEVELOPER | INDEPENDENT BUILDER
-
-Developing software, exploring emerging technologies, and turning ideas into functional digital products.
-
-GitHub · Projects
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=900&color=DC2626&center=true&vCenter=true&width=500&lines=Building+digital+experiences.;Engineering+ideas+into+reality.;Exploring+technology.+Creating+solutions." alt="Developer introduction" />
 </div>
 
 ⸻
 
-ABOUT
+◈ ABOUT
 
-I’m an independent software developer interested in building practical applications, exploring modern web technologies, and developing innovative digital products.
+Independent software developer focused on building digital products, exploring modern technologies, and transforming ideas into functional software.
 
-I enjoy working across the development process — from planning and architecture to implementation, testing, and continuous improvement.
+Driven by curiosity, experimentation, and the pursuit of better engineering.
 
-TECHNICAL SKILLS
+◈ TECHNOLOGY STACK
 
-Category	Technologies
-Languages	TypeScript, JavaScript
-Frontend	React, HTML5, CSS3
-Development	Git, GitHub, REST APIs
-Currently exploring	Python, AI-assisted development
+Languages & Development
 
-SELECTED WORK
+Tools & Workflow
 
-WICKD — View Repository
+◈ PROJECT ARCHIVE
 
-An independent software project under the WICKEDCEO identity.
+<!-- PROJECTS:START -->
 
-Explore all repositories →
+Projects are automatically discovered and updated from public GitHub repositories.
 
-GITHUB OVERVIEW
+Explore all projects →
+
+<!-- PROJECTS:END -->
+
+◈ GITHUB ANALYTICS
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wickedceo&show_icons=true&hide_border=true&theme=transparent&title_color=DC2626&icon_color=DC2626" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickedceo&layout=compact&hide_border=true&theme=transparent&title_color=DC2626" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=wickedceo&show_icons=true&hide_border=true&bg_color=0D1117&title_color=DC2626&icon_color=DC2626&text_color=E6EDF3&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickedceo&layout=compact&hide_border=true&bg_color=0D1117&title_color=DC2626&text_color=E6EDF3" />
+<img width="75%" src="https://streak-stats.demolab.com?user=wickedceo&theme=dark&hide_border=true&background=0D1117&ring=DC2626&fire=DC2626&currStreakLabel=DC2626" />
 </div>
 
+◈ CONTRIBUTION MATRIX
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wickedceo&bg_color=0D1117&color=E6EDF3&line=DC2626&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
 ⸻
-
-OWNERSHIP & ATTRIBUTION
-
-Original projects, source code, and intellectual property published under WICKEDCEO are owned by WICKEDCEO unless otherwise stated. Individual repositories may specify their own licensing terms.
 
 <div align="center">
 
 WICKEDCEO
 
-BUILD WITH PURPOSE. CREATE WITH INTENT.
+ENGINEERED TO CREATE.
 
+All original projects and intellectual property published under WICKEDCEO belong to WICKEDCEO unless otherwise stated. Repository-specific licenses apply.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:090909&height=3&section=footer" width="100%" />
 </div>
