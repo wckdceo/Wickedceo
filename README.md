@@ -23,11 +23,14 @@ Tools & Workflow
 ◈ PROJECT ARCHIVE
 
 <!-- PROJECTS:START -->
-- [**Wickedceo**](https://github.com/wickedceo/Wickedceo)
-  `Software` · Updated 2026-11-20
+- [**pulsewatch**](https://github.com/wickedceo/pulsewatch) — A full-stack website and API uptime monitoring platform built with JavaScript, Node.js, Express and PostgreSQL.
+  `Software` · Updated 2026-11-21
 
 - [**WCKD**](https://github.com/wickedceo/WCKD)
-  `Software` · Updated 2026-11-19
+  `Software` · Updated 2026-11-21
+
+- [**Wickedceo**](https://github.com/wickedceo/Wickedceo)
+  `Software` · Updated 2026-11-21
 
 - [**DevBoard**](https://github.com/wickedceo/DevBoard) — Modern developer project management platform
   `Software` · Updated 2026-11-11
@@ -36,9 +39,6 @@ Tools & Workflow
   `TypeScript` · Updated 2026-11-10
 
 - [**authflow**](https://github.com/wickedceo/authflow) — A modern authentication system built with React, TypeScript and secure authentication workflows.
-  `TypeScript` · Updated 2026-11-09
-
-- [**bugtrack**](https://github.com/wickedceo/bugtrack) — A modern bug tracking and QA management application built with React and TypeScript.
   `TypeScript` · Updated 2026-11-09
 
 [Explore all projects →](https://github.com/wickedceo?tab=repositories)
